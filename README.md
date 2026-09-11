@@ -55,7 +55,7 @@ The application extracts text from the uploaded document depending on its file t
 
 The extracted text is passed to a LangChain prompt and an LLM provided through Groq.
 
-[Create Groq API Key](https://console.groq.com/keys)
+[Create Groq API Key](https://console.groq.com/home)
 
 The model is instructed to generate the requested number of multiple-choice questions using only the information contained in the uploaded document.
 
